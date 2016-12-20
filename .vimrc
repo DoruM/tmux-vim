@@ -27,3 +27,5 @@ set shiftwidth=4
 set nocompatible
 syntax on
 set omnifunc=syntaxcomplete#Complete
+set path+=**
+set wildmenu
